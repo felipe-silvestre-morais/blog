@@ -1,0 +1,114 @@
+# -------------------------------------------------------
+#  Theme
+# -------------------------------------------------------
+theme: jekyll-theme-chirpy
+
+# -------------------------------------------------------
+#  Site Settings
+# -------------------------------------------------------
+lang: en
+timezone: America/Sao_Paulo
+
+title: FSilestre AI
+tagline: A Brazilian software engineer writing about AI, agents, and the future of tech.
+
+description: >-
+  A blog about AI, agents, MCP, LLMs, and software engineering
+  written by a Brazilian developer who is way too excited about all of it.
+
+url: "https://fsilvestreai.github.io"
+baseurl: ""
+
+github:
+  username: felipe-silvestre-morais
+
+social:
+  name: Felipe Silvestre Morais
+  email: ""
+  links:
+    - https://github.com/felipe-silvestre-morais
+
+# -------------------------------------------------------
+#  Appearance
+# -------------------------------------------------------
+# Options: light | dark  (leave empty to follow system preference)
+theme_mode: # dark
+
+avatar: ""  # e.g. /assets/img/avatar.jpg
+toc: true
+
+# -------------------------------------------------------
+#  Analytics (optional)
+# -------------------------------------------------------
+analytics:
+  google:
+    id: ""
+
+# -------------------------------------------------------
+#  Comments (optional)
+# -------------------------------------------------------
+comments:
+  provider: ""  # disqus | utterances | giscus
+
+# -------------------------------------------------------
+#  PWA
+# -------------------------------------------------------
+pwa:
+  enabled: true
+  cache:
+    enabled: true
+
+# -------------------------------------------------------
+#  Pagination
+# -------------------------------------------------------
+paginate: 10
+
+# -------------------------------------------------------
+#  Plugins
+# -------------------------------------------------------
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# -------------------------------------------------------
+#  Markdown & Syntax Highlighting
+# -------------------------------------------------------
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: highlight
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+
+# -------------------------------------------------------
+#  Defaults
+# -------------------------------------------------------
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author: Felipe Silvestre Morais
+      comments: false
+
+# -------------------------------------------------------
+#  Exclude from build
+# -------------------------------------------------------
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - node_modules/
+  - vendor/
+  - "*.gem"
+  - "*.gemspec"
