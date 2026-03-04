@@ -1,4 +1,4 @@
-# FSilestre AI — Blog
+# Felipe Silvestre AI — Blog
 
 A blog about AI, agents, MCP, LLMs, and software engineering by Felipe Silvestre Morais.
 
