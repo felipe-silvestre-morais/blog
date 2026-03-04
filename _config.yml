@@ -9,12 +9,12 @@ theme: jekyll-theme-chirpy
 lang: en
 timezone: America/Sao_Paulo
 
-title: FSilestre AI
-tagline: A Brazilian software engineer writing about AI, agents, and the future of tech.
+title: Felipe Silvestre AI
+tagline: A software engineer writing about AI, agents, and the future of tech.
 
 description: >-
   A blog about AI, agents, MCP, LLMs, and software engineering
-  written by a Brazilian developer who is way too excited about all of it.
+  written by a Software Enginner who is way too excited about all of it.
 
 url: "https://fsilvestreai.github.io"
 baseurl: ""
@@ -23,7 +23,7 @@ github:
   username: felipe-silvestre-morais
 
 social:
-  name: Felipe Silvestre Morais
+  name: Felipe Silvestre
   email: ""
   links:
     - https://github.com/felipe-silvestre-morais
