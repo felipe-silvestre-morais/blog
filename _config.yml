@@ -7,16 +7,16 @@ theme: jekyll-theme-chirpy
 #  Site Settings
 # -------------------------------------------------------
 lang: en
-timezone: America/Sao_Paulo
+timezone: Europe/Dublin
 
-title: Felipe Silvestre AI
+title: Felipe Silvestre Blog
 tagline: A software engineer writing about AI, agents, and the future of tech.
 
 description: >-
   A blog about AI, agents, MCP, LLMs, and software engineering
   written by a Software Enginner who is way too excited about all of it.
 
-url: "https://fsilvestreai.github.io"
+url: "https://felipe-silvestre-morais.github.io/blog"
 baseurl: ""
 
 github:
@@ -97,7 +97,7 @@ defaults:
       type: posts
     values:
       layout: post
-      author: Felipe Silvestre Morais
+      author: Felipe Silvestre
       comments: false
 
 # -------------------------------------------------------
