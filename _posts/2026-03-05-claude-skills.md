@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Claude Skills: The Feature That Changed How I Use AI in My Daily Work"
-date: 2025-03-05
+date: 2026-03-05
 categories: ai claude productivity skills
 ---
 
