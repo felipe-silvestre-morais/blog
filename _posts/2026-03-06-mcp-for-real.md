@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MCP: The USB-C Port That AI Was Missing"
-date: 2025-03-06
+date: 2026-03-06
 categories: [ai, software-engineering]
 ---
 
