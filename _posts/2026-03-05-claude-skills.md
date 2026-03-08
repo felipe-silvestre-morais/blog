@@ -1,8 +1,8 @@
 ---
-layout: post
 title: "Claude Skills: The Feature That Changed How I Use AI in My Daily Work"
 date: 2026-03-05
-categories: ai claude productivity skills
+categories: [ai]
+tags: [skill, agent, llm]
 ---
 
 If you use Claude regularly for engineering work, you probably already know that the quality of your output depends heavily on how good your instructions are. You give it a vague prompt, you get a vague result. You give it a detailed and specific prompt, suddenly things start to get impressive. That's just how LLMs work.

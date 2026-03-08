@@ -1,8 +1,8 @@
 ---
-layout: post
 title: "MCP: The USB-C Port That AI Was Missing"
 date: 2026-03-06
-categories: [ai, software-engineering]
+categories: [ai, tech]
+tags: [mcp, agent, llm]
 ---
 
 I know you have been hearing about MCP everywhere lately. Maybe you saw it in a YouTube video, or someone in your team started talking about it, or you noticed it appearing in every AI tool you use. I was in this same position a few months ago — I kind of understood what it was, but I didn't *really* get it. Not until I built one myself.
