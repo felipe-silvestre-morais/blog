@@ -1,9 +1,8 @@
 ---
 title: "Agent Skills vs MCP: What's the Difference?"
-date: 2026-03-04 12:00:00 -0300
-categories: [AI, Agents]
-tags: [mcp, ai-agents, skills, llm, anthropic]
-author: Felipe Silvestre Morais
+date: 2026-03-04
+categories: [ai]
+tags: [agent, skill, mcp]
 ---
 
 Okay, minha gente — let's talk about something that I genuinely got giddy about this week. If you're building AI agents (or thinking about it), you've probably already heard of **MCP**. But have you heard of **Agent Skills**? Because if you haven't, buckle up. This is one of those "aha!" moments that makes you want to call your developer friends at midnight.
