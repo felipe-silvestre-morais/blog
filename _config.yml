@@ -54,9 +54,9 @@ comments:
 #  PWA
 # -------------------------------------------------------
 pwa:
-  enabled: true
+  enabled: false
   cache:
-    enabled: true
+    enabled: false
 
 # -------------------------------------------------------
 #  Pagination
