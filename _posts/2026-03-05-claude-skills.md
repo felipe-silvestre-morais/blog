@@ -1,6 +1,7 @@
 ---
 title: "Claude Skills: The Feature That Changed How I Use AI in My Daily Work"
-date: 2026-03-05
+date: 2026-03-05 13:00:00
+author: Felipe Silvestre
 categories: [ai]
 tags: [skill, agent, llm]
 ---

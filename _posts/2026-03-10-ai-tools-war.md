@@ -1,6 +1,7 @@
 ---
 title: "The AI Coding Tool Wars: Cursor, Claude Code, Windsurf, Antigravity, and the Rest"
-date: 2026-03-10
+date: 2026-03-10 13:00:00
+author: Felipe Silvestre
 categories: [ai, tech]
 tags: [cursor, claude-code, windsurf, copilot, antigravity, developer-tools]
 ---

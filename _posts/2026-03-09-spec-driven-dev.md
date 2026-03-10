@@ -1,6 +1,7 @@
 ---
 title: "Spec-Driven Development: How to Actually Get AI to Build What You Want"
-date: 2026-03-09
+date: 2026-03-09 13:00:00
+author: Felipe Silvestre
 categories: [ai, tech]
 tags: [ai-coding, spec-driven-development, llm, claude-code, cursor]
 ---

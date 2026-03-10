@@ -1,6 +1,7 @@
 ---
 title: "RAG Explained: How to Give AI Access to Your Own Documents"
-date: 2026-03-07
+date: 2026-03-07 13:00:00
+author: Felipe Silvestre
 categories: [ai, tech]
 tags: [rag, llm, vector-search, embeddings]
 ---

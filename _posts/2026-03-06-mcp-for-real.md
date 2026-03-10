@@ -1,6 +1,7 @@
 ---
 title: "MCP: The USB-C Port That AI Was Missing"
-date: 2026-03-06
+date: 2026-03-06 13:00:00
+author: Felipe Silvestre
 categories: [ai, tech]
 tags: [mcp, agent, llm]
 ---
