@@ -34,7 +34,7 @@ social:
 # Options: light | dark  (leave empty to follow system preference)
 theme_mode: # dark
 
-avatar: ""  # e.g. /assets/img/avatar.jpg
+avatar: "/assets/img/profile.png"
 toc: true
 
 # -------------------------------------------------------
