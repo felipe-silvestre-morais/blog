@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/ai/2026/03/04/agent-skills-vs-mcp.html</loc>
+<lastmod>2026-03-04T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/ai/2026/03/05/claude-skills.html</loc>
+<lastmod>2026-03-05T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/ai/tech/2026/03/06/mcp-for-real.html</loc>
+<lastmod>2026-03-06T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tags/agent/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tags/skill/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tags/mcp/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tags/llm/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/categories/ai/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/categories/tech/</loc>
+</url>
+</urlset>
