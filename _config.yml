@@ -99,6 +99,14 @@ kramdown:
       start_line: 1
 
 # -------------------------------------------------------
+#  Collections
+# -------------------------------------------------------
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
+# -------------------------------------------------------
 #  Defaults
 # -------------------------------------------------------
 defaults:
@@ -109,6 +117,12 @@ defaults:
       layout: post
       author: Felipe Silvestre
       comments: false
+  - scope:
+      path: ""
+      type: tabs
+    values:
+      layout: page
+      permalink: /:title/
 
 # -------------------------------------------------------
 #  Exclude from build
