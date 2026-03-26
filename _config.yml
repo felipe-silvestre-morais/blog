@@ -9,6 +9,10 @@ theme: jekyll-theme-chirpy
 lang: en
 timezone: Europe/Dublin
 
+# Maintenance mode
+maintenance_mode: true
+maintenance_message: "The blog is currently under maintenance. Check back soon!"
+
 title: Felipe Silvestre
 tagline: A software engineer writing about AI, agents, and the future of tech.
 
