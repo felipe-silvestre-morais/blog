@@ -1,6 +1,6 @@
 ---
 title: "Claude Code in Your Pocket: Remote Control, Scheduled Agents, and What That Unlocks"
-date: 2026-05-21 21:00:00
+date: 2026-05-21 15:30:00
 author: Felipe Silvestre
 categories: [ai, tech]
 tags: [claude-code, remote-agents, mobile, productivity, anthropic, schedule, workflows]
