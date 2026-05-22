@@ -2,6 +2,10 @@ source "https://rubygems.org"
 
 gem "jekyll-theme-chirpy", "~> 7.2"
 
+# sass-embedded 1.100.0 requires json >= 2.10 (JSON::Fragment), which Ruby 3.1.6
+# does not bundle. Pin to the previous line until we upgrade Ruby.
+gem "sass-embedded", "< 1.100"
+
 group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-sitemap"
