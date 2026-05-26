@@ -1,6 +1,6 @@
 ---
 title: "MCP Tunnel: Why I Stopped Letting Cloud Agents Touch My Credentials Directly"
-date: 2026-05-26 10:30:00
+date: 2026-05-26 08:30:00
 author: Felipe Silvestre
 categories: [ai, tech]
 tags: [mcp, claude-code, security, tunnels, ai-agents, anthropic, oauth]
